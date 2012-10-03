@@ -1,0 +1,25 @@
+.field-checkbox {
+	border: 1px solid #E4E4D4;
+	background-color: #F5F5F3;
+	color: #888;
+	padding: 5px 10px 0 10px;
+	height: 38px;
+}
+
+div.field-checkbox:first-child {
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+.field-checkbox label {
+	margin-bottom: 0;
+}
+.field-checkbox label > span {
+	display: inline-block;
+	margin-top: 5px;
+}
+
+.field-checkbox label .switch {
+	float: right;
+}
+

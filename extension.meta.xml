@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extension id="switch" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+
+	<name>Switch</name>
+
+	<description>Convert plain checkboxes to enhanced Bootstrap Switchers.</description>
+
+	<repo type="github">https://github.com/vlad-ghita/switch</repo>
+
+	<types>
+		<type>Interface</type>
+	</types>
+
+	<authors>
+		<author>
+			<name github="vlad-ghita" symphony="vladG">Vlad Ghita</name>
+			<email>vlad.github@gmail.com</email>
+			<website>http://www.xanderadvertising.com</website>
+		</author>
+	</authors>
+
+	<releases>
+		<release version="1.0.0" date="2012-10-03" min="2.2"><![CDATA[
+			* First release.
+		]]></release>
+	</releases>
+
+</extension>
